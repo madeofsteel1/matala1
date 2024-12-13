@@ -1,5 +1,7 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Maor Pinhassi 318801065");
-    }
+public class MYName{
+	public static void main(String[]args){
+			for(int i=1;i<=10;i++){
+					System.out.println("Maor pinhassi"+i);
+			}
+	}
 }
